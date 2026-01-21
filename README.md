@@ -24,7 +24,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
  🛰 Data Source
 
-\- \\Sentinel-2 Surface Reflectance (Harmonized)\\
+\- \Sentinel-2 Surface Reflectance (Harmonized)\
 
 \- Collection: `COPERNICUS/S2\_SR\_HARMONIZED`
 
@@ -84,7 +84,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
 👤 Author
 
-\\Akashnil Kaibartta\\ 
+\Akashnil Kaibartta\ 
 
 B.Sc. (Hons) Agriculture  
 
