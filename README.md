@@ -1,4 +1,4 @@
-\Sentinel-2 NDVI Time-Series Animation (Google Earth Engine)
+Sentinel-2 NDVI Time-Series Animation (Google Earth Engine)
 
 
 
@@ -12,7 +12,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
 
 
-\ 📍 Study Area
+ 📍 Study Area
 
 \- Bolpur Block, West Bengal, India
 
@@ -22,7 +22,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
 
 
-\ 🛰 Data Source
+ 🛰 Data Source
 
 \- \\Sentinel-2 Surface Reflectance (Harmonized)\\
 
@@ -38,7 +38,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
 
 
-\ ⚙️ Methodology
+⚙️ Methodology
 
 1\. Filter Sentinel-2 imagery by date, cloud cover, and study area.
 
@@ -58,7 +58,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
 
 
-\ 📦 Output
+📦 Output
 
 \- NDVI time-series animation (GIF)
 
@@ -70,7 +70,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
 
 
-\ 🧰 Platform \& Tools
+🧰 Platform \& Tools
 
 \- Google Earth Engine (JavaScript API)
 
@@ -82,7 +82,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
 
 
-\ 👤 Author
+👤 Author
 
 \\Akashnil Kaibartta\\ 
 
@@ -96,7 +96,7 @@ Visva-Bharati University
 
 
 
-\ 📌 Notes
+📌 Notes
 
 This script is intended for academic and research purposes. The workflow can be adapted for other regions by replacing the input boundary geometry.
 
