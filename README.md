@@ -1,18 +1,10 @@
-\# Sentinel-2 NDVI Time-Series Animation (Google Earth Engine)
+\Sentinel-2 NDVI Time-Series Animation (Google Earth Engine)
 
 
 
-This repository contains a Google Earth Engine (JavaScript) script to generate
+This repository contains a Google Earth Engine (JavaScript) script to generate NDVI time-series GIF animations using Sentinel-2 Surface Reflectance data.
 
-NDVI time-series GIF animations using Sentinel-2 Surface Reflectance data.
-
-
-
-The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies
-
-day-of-year (DOY) based median compositing, and generates a time-series
-
-visualization with date labels.
+The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day-of-year (DOY) based median compositing, and generates a time-series visualization with date labels.
 
 
 
@@ -20,7 +12,7 @@ visualization with date labels.
 
 
 
-\## 📍 Study Area
+\ 📍 Study Area
 
 \- Bolpur Block, West Bengal, India
 
@@ -30,9 +22,9 @@ visualization with date labels.
 
 
 
-\## 🛰 Data Source
+\ 🛰 Data Source
 
-\- \*\*Sentinel-2 Surface Reflectance (Harmonized)\*\*
+\- \\Sentinel-2 Surface Reflectance (Harmonized)\\
 
 \- Collection: `COPERNICUS/S2\_SR\_HARMONIZED`
 
@@ -46,7 +38,7 @@ visualization with date labels.
 
 
 
-\## ⚙️ Methodology
+\ ⚙️ Methodology
 
 1\. Filter Sentinel-2 imagery by date, cloud cover, and study area.
 
@@ -66,7 +58,7 @@ visualization with date labels.
 
 
 
-\## 📦 Output
+\ 📦 Output
 
 \- NDVI time-series animation (GIF)
 
@@ -78,7 +70,7 @@ visualization with date labels.
 
 
 
-\## 🧰 Platform \& Tools
+\ 🧰 Platform \& Tools
 
 \- Google Earth Engine (JavaScript API)
 
@@ -90,9 +82,9 @@ visualization with date labels.
 
 
 
-\## 👤 Author
+\ 👤 Author
 
-\*\*Akashnil Kaibartta\*\*  
+\\Akashnil Kaibartta\\ 
 
 B.Sc. (Hons) Agriculture  
 
@@ -104,11 +96,16 @@ Visva-Bharati University
 
 
 
-\## 📌 Notes
+\ 📌 Notes
 
-This script is intended for academic and research purposes. The workflow can be
-
-adapted for other regions by replacing the input boundary geometry.
+This script is intended for academic and research purposes. The workflow can be adapted for other regions by replacing the input boundary geometry.
 
 
+---
+
+ 🖼 Sample Output
+
+NDVI / Vegetation Cover Time-Series Animation (Bolpur Block)
+
+![NDVI Time-Series](outputs/vege_cover_bolpur_block.gif)
 
