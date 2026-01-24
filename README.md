@@ -14,7 +14,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
  📍 Study Area
 
-\- Bolpur Block, West Bengal, India
+\- Bolpur & Illambazar Block, West Bengal, India
 
 
 
@@ -86,7 +86,7 @@ The workflow processes multi-date Sentinel-2 imagery, computes NDVI, applies day
 
 Akashnil Kaibartta 
 
-B.Sc. (Hons) Agriculture  
+Final Year, B.Sc. (Hons) Agriculture  
 
 Visva-Bharati University
 
@@ -105,7 +105,7 @@ This script is intended for academic and research purposes. The workflow can be 
 
  🖼 Sample Output
 
-NDVI / Vegetation Cover Time-Series Animation (Bolpur Block)
+NDVI / Vegetation Cover Time-Series Animation (Bolpur & Illambazar Block)
 
 ![NDVI Time-Series](outputs/vege_cover_bolpur_block.gif)
 
